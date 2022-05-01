@@ -8,5 +8,6 @@ public class PeoplefinderApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(PeoplefinderApplication.class, args);
+		
 	}
 }
