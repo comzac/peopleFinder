@@ -10,4 +10,5 @@ public class PeoplefinderApplication {
 		SpringApplication.run(PeoplefinderApplication.class, args);
 		
 	}
+	
 }
