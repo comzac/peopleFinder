@@ -1,4 +1,4 @@
-package com.zac.peoplefinder.vo;
+package com.zac.Tricking1sic.vo;
 
 public class TestVo {
 	private Long mbrNo;
